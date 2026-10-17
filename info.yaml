@@ -17,7 +17,7 @@ pinout:
   # Inputs
   ui[0]: ""
   ui[1]: ""
-  ui[2]: ""
+  ui[2]: "ROLL"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
@@ -25,13 +25,13 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
+  uo[0]: "SEG_A"
+  uo[1]: "SEG_B"
+  uo[2]: "SEG_C"
+  uo[3]: "SEG_D"
+  uo[4]: "SEG_E"
+  uo[5]: "SEG_F"
+  uo[6]: "SEG_G"
   uo[7]: ""
 
   # Bidirectional pins
